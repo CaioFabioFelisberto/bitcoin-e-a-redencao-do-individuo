@@ -38,10 +38,10 @@ Você pode ler a obra de três formas:
 
 ## ⚡ Doações / Zaps
 
-Se este projeto abriu seus olhos ou contribuiu com seus estudos, apoie o autor[cite: 32]:
+Se este projeto abriu seus olhos ou contribuiu com seus estudos, apoie o autor:
 
-- **Lightning Network:** `bentfront486@walletofsatoshi.com` *lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkyetww3n8ymmwws6rsdsaj73rq*[cite: 32]
-- **On-Chain (BTC):** `bc1q39hnjpuuvzr50enhk2mclehvlpqgmzt5pkw482`[cite: 32]
+- **Lightning Network:** `bentfront486@walletofsatoshi.com` *lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkyetww3n8ymmwws6rsdsaj73rq*
+- **On-Chain (BTC):** `bc1q39hnjpuuvzr50enhk2mclehvlpqgmzt5pkw482`
 
 ---
 
