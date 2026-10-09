@@ -17,7 +17,7 @@ Este livro é um manual de combate intelectual, técnico e moral contra a engenh
 Você pode ler a obra de três formas:
 
 1. 📥 **PDF Completo:** Baixe o arquivo pronto para leitura e impressão na pasta [`/book_pdf`](./book_pdf/O_BITCOIN_E_A_REDENCAO_DO_INDIVIDUO.pdf).
-2. 📑 **Capítulos em Markdown:** Navegue diretamente pelos arquivos na pasta [`/book_md`](./book_md/).
+2. 📑 **Livro em Markdown:** Livro completo em Markdown na pasta [`/book_md`](./book_md/).
 3. ⚡ **Apoie o Projeto:** Se o conteúdo gerou valor para você, considere enviar Satoshis para apoiar o desenvolvimento de projetos open-source e literatura soberana.
 
 ---
@@ -49,4 +49,4 @@ Se este projeto abriu seus olhos ou contribuiu com seus estudos, apoie o autor:
 
 Este projeto é disponibilizado sob a licença **MIT / CC0 (Domínio Público)** — sinta-se livre para compartilhar, adaptar e espalhar o conhecimento livre de censura.
 
-*"A luz não busca permissão da escuridão para brilhar; a verdade não pede licença ao Estado para prevalecer."* — **King Of Twilight**[cite: 32]
+*"A luz não busca permissão da escuridão para brilhar; a verdade não pede licença ao Estado para prevalecer."* — **King Of Twilight**
